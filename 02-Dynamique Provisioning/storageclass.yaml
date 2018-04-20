@@ -1,0 +1,13 @@
+kind: StorageClass
+apiVersion: storage.k8s.io/v1
+metadata:
+  namespace: mysql
+  name: hdd
+provisioner: k8s.io/minikube-hostpath
+---
+kind: StorageClass
+apiVersion: storage.k8s.io/v1
+metadata:
+  namespace: mysql
+  name: ssd
+provisioner: k8s.io/minikube-hostpath
