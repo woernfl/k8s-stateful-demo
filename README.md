@@ -8,3 +8,10 @@ Separate in different folders:
 - 03-StatefulSet: demo of statefulset usage
 
 Link to the slide deck: will arrive soon ;)
+
+Réference:
+- Kubernetes Tasks: https://kubernetes.io/docs/tasks/
+- Configure a Pod to Use a PersistentVolume for Storage: https://kubernetes.io/docs/tasks/configure-pod-container/configure-persistent-volume-storage/
+- Run a Single-Instance Stateful Application: https://kubernetes.io/docs/tasks/run-application/run-single-instance-stateful-application/
+- Run a Replicated Stateful Application: https://kubernetes.io/docs/tasks/run-application/run-replicated-stateful-application/
+- StatefulSets Kubernetes Doc: https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/
