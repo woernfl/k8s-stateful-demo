@@ -16,7 +16,7 @@ The content is separate in different folders:
 ## Contributor
 Always happy if you want to contribute, feel free to issue a pull request.
 
-:warning: :warning: :warning: Please contribute in the [Gitlab repo](https://gitlab.com/woernfl/k8s-stateful-demo).
+:warning: :warning: :warning: Please contribute in the [GitHub repo](https://github.com/woernfl/k8s-stateful-demo).
 
 ## Disclaimer
 This does not consist of a production setup, much more things needs to be added to what is presented here before being deployed in production.
